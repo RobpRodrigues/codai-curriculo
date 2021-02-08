@@ -139,7 +139,7 @@ background: linear-gradient(to left, #fff 60%, #19def0 40%);
 }
 
 #texto-1 {  
-    display: none;  
+    display: initials;
 }
 
 #texto-2{
